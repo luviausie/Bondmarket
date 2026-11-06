@@ -1,0 +1,12 @@
+{
+  "thresholds": {
+    "hy_level_waspada": 3.5,
+    "hy_level_bahaya": 4.0,
+    "hy_chg5_waspada": 0.25,
+    "hy_chg5_bahaya": 0.5,
+    "hy_chg20_widening": 0.3,
+    "yield_up_20d": 0.1,
+    "curve_flat": 0.25
+  },
+  "_catatan": "Ambang adalah asumsi awal, bukan standar baku. Ubah sesuai gaya Anda. Satuan: persen / poin persen."
+}
